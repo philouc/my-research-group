@@ -20,4 +20,5 @@ design:
 
 <br>
 
-The **Compressed Sensing group** has been created in 2018 at NeuroSpin.
+The **Compressed Sensing group** has been created in 2018 at NeuroSpin in the
+Inria-CEA Parietal unit.
