@@ -7,8 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
+  Compressed Sensing in MRI Research Group
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,5 +19,5 @@ design:
 
 <br>
 
-The **Compressed Sensing group** has been created in 2018 at NeuroSpin in the
+The **Compressed Sensing in MRI group** has been created in 2018 at NeuroSpin in the
 Inria-CEA Parietal unit.
