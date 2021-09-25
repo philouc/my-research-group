@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Compressed Sensing in MRI Research Group
-hero_media: welcome.jpg
+hero_media: Ciuciu_11.7T_installation.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
