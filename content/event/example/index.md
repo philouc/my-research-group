@@ -13,12 +13,12 @@ address:
   country: France
 
 summary: A one-day scientific workshop organized with Institut Pascal, Univ. Paris-Saclay
-abstract: This workshop was organized to promote and advertise the 2-week summer thematic program that will be held in summer 2022 (June 27, July 8) on the same theme, namely Artificial Intelligence for signal & image processing by the same organizing team
+abstract: "This workshop was organized to promote and advertise the 2-week summer thematic program that will be held in summer 2022 (June 27, July 8) on the same theme, namely Artificial Intelligence for signal & image processing by the same organizing team."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-09-10T10:00:00Z"
-date_end: "2021-09-10TT16:45:00Z"
+date_end: "2021-09-10T16:45:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
