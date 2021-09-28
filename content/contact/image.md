@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: Logocomposite.png
+    image: LogoComposite.png
     image_darken: 0
     image_parallax: false
     image_position: center
