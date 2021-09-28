@@ -30,10 +30,10 @@ tags: [1.0]
 # Is this a featured talk? (true/false)
 featured: false
 
-#image: "ai_pic.png"
+image:
+  caption: 'Image credit: Institut Pascal'
+  focal_point: Right
 #{{< figure src="ai_pic.png" caption="AI day - Institut Pascal" theme="light" >}}
-#  caption: 'Image credit: Institut Pascal'
-#  focal_point: Right
 
 
 url_code: ""
