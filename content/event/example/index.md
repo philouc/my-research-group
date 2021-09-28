@@ -6,10 +6,10 @@ event_url: https://indico.ijclab.in2p3.fr/event/7326/overview
 
 location: Virtual, Institut Pascal 
 address:
-  street: University Paris-Saclay
+  street: Paris-Saclay University
   city: Gif-sur-Yvette
   region: 
-  postcode: ''
+  postcode: '91190'
   country: France
 
 summary: A one-day scientific workshop organized with Institut Pascal, Univ. Paris-Saclay
@@ -19,7 +19,7 @@ abstract: This workshop was organized to promote and advertise the 2-week summer
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-09-10T10:00:00Z"
 date_end: "2021-09-10TT16:45:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-01T00:00:00Z"
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](./ai_pic.png)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ""
