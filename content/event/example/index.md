@@ -24,15 +24,17 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Philippe Ciuciu]
+tags: [1.0]
 
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: ./ai_pic.png'
-  focal_point: Right
+#image:
+{{< figure src="ai_pic.png" caption="AI day - Institut Pascal" theme="light" >}}
+#  caption: 'Image credit: Institut Pascal'
+#  focal_point: Right
+
 
 url_code: ""
 url_pdf: "https://indico.ijclab.in2p3.fr/event/7326/attachments/17063/22253/1.Laurent-Jacques_AI-ParisSaclay_Sep2021.pdf"
