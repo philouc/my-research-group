@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**]ai_pic.png'
+  caption: 'Image credit: [**Unsplash**](./ai_pic.png)'
   focal_point: Right
 
 url_code: ""
