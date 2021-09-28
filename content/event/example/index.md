@@ -1,28 +1,28 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: AI day for signal/image processing (Institut Pascal, Univ. Paris-Saclay)
+event_url: https://indico.ijclab.in2p3.fr/event/7326/overview
 
-location: Wowchemy HQ
+location: Virtual, Institut Pascal 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: University Paris-Saclay
+  city: Gif-sur-Yvette
+  region: 
+  postcode: ''
+  country: France
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A one-day scientific workshop organized with Institut Pascal, Univ. Paris-Saclay
+abstract: This workshop was organized to promote and advertise the 2-week summer thematic program that will be held in summer 2022 (June 27, July 8) on the same theme, namely Artificial Intelligence for signal & image processing by the same organizing team
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-09-10T10:00:00Z"
+date_end: "2021-09-10TT16:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,13 +31,13 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**]ai_pic.png'
   focal_point: Right
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://indico.ijclab.in2p3.fr/event/7326/attachments/17063/22253/1.Laurent-Jacques_AI-ParisSaclay_Sep2021.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=woqr2sRAP34"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
