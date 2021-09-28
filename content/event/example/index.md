@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: AI day for signal/image processing (Institut Pascal, Univ. Paris-Saclay)
 
-event: AI day for signal/image processing (Institut Pascal, Univ. Paris-Saclay)
+event: AI day for signal/image processing
 event_url: https://indico.ijclab.in2p3.fr/event/7326/overview
 
 location: Virtual, Institut Pascal 
