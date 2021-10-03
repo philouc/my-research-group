@@ -20,21 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: philippe.ciuciu@cea.fr
+phone: +33 1 6908 7785
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: CEA Saclay/NeuroSpin
+  city: Gif-sur-Yvette
+  region: 
+  postcode: '91191'
+  country: France
+  country_code: FR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: 'N 48°43.257'
+  longitude: 'E2° 9.108'
+directions: Enter Building 145, go to the front desk and take the stairs to Office 1013 on 1st Floor
 office_hours:
-  - 'Monday 10:00 to 13:00'
+  - 'Monday 08:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
 contact_links:

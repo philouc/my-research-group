@@ -71,4 +71,4 @@ user_groups:
 - Researchers
 ---
 
-Philippe Ciuciu is a Research Director at CEA (Atomic Energy Commission, France) and the head of the Compressed Sensing in MRI team in the Inria-CEA Parietal lab at NeuroSpin, France’s main research center for innovation in brain imaging technologies. His research interests include signal processing, compressed sensing in MRI on both the data acquisition and image reconstruction sides, deep learning for MRI, functional neuroimaging~(fMRI, MEG). 
+Philippe Ciuciu is a Research Director at CEA (Atomic Energy Commission, France) and the head of the Compressed Sensing in MRI team in the Inria-CEA Parietal lab at NeuroSpin, France’s main research center for innovation in brain imaging technologies. His research interests include signal processing, compressed sensing in MRI on both the data acquisition and image reconstruction sides, deep learning for MRI, functional neuroimaging~(fMRI, MEG).
