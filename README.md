@@ -1,4 +1,4 @@
-# Compressed Sensing MRI group [Hugo](https://github.com/gohugoio/hugo)
+# Compressed Sensing MRI group [Philippe](https://github.com/philouc)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
